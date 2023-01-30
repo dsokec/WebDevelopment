@@ -7,7 +7,7 @@
     
         
         {
-            "type": "chrome",
+            "type": "msedge",
             "request": "launch",
             "name": "Open contactMe.html",
             "file": "c:\\Users\\dino\\OneDrive\\Dokumenti\\GitHub\\WebDevelopment\\Web Development\\contactMe.html"

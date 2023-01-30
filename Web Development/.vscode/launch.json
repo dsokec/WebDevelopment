@@ -9,7 +9,7 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open contactMe.html",
+            "name": "Open index.html",
             "file": "c:\\Users\\dino\\OneDrive\\Dokumenti\\GitHub\\WebDevelopment\\Web Development\\contactMe.html"
         }
     ]

@@ -1,6 +1,14 @@
 body{
-    background-color: aquamarine;
+    background-color: red;
 }
 h1{
     color: white;
+    font-size: 190%;
+}
+p{
+    color: white;
+    font-size: 150%;
+}
+img{
+    background-color: white;
 }

@@ -2,6 +2,8 @@
 body{
     background-color: grey;
 }
+/* Ima predefault vrijednosti */
+
 h1{
     color: white;
     font-size: 150px;
@@ -11,8 +13,11 @@ p{
     font-size: 150%;
 }
 
-img{
-    background-color: white;
+/* Nadjačao ju je class selector */
+
+/*ovo je sudo class jer ima : (dvotočku)*/
+img:hover{
+    background-color: gold;
 }
 
 
@@ -23,9 +28,17 @@ img{
 .broccoli{
     background-color: red;
 }
+.circular{
+    border-radius: 80%;
+}
 
 /******************* ID SELECTORS ********************/
 /* Overrides H1 because it is more specific */
 #heading{
     color: blue;
 }
+/* Ne funkcioniraju dva ID-ja u tagu H1
+#big{
+    font-size: 1000px;
+}
+*/

@@ -23,3 +23,8 @@ img{
 .broccoli{
     background-color: red;
 }
+
+/******************* ID SELECTORS ********************/
+#heading{
+    color: blue;
+}

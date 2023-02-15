@@ -1,14 +1,25 @@
+/******************* TAG SELECTORS ********************/
 body{
     background-color: red;
 }
 h1{
     color: white;
-    font-size: 190%;
+    font-size: 150px;
 }
 p{
     color: white;
     font-size: 150%;
 }
+/*
 img{
     background-color: white;
+}
+*/
+
+/******************* CLASS SELECTORS ********************/
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
 }

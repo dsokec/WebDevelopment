@@ -10,11 +10,11 @@ p{
     color: white;
     font-size: 150%;
 }
-/*
+
 img{
     background-color: white;
 }
-*/
+
 
 /******************* CLASS SELECTORS ********************/
 .bacon{
@@ -25,6 +25,7 @@ img{
 }
 
 /******************* ID SELECTORS ********************/
+/* Overrides H1 because it is more specific */
 #heading{
     color: blue;
 }

@@ -15,7 +15,10 @@ p{
 
 /* Nadjačao ju je class selector */
 
-/*ovo je sudo class jer ima : (dvotočku)*/
+/*
+    ovo je sudo class jer ima : (dvotočku)
+    https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
+*/
 img:hover{
     background-color: gold;
 }

@@ -3,3 +3,25 @@
 div{
     background-color: #FEFBE9;
 }
+
+/* 
+    Uklanjanje margina na tagovima body i h1
+    Za div ne treba
+*/
+body{
+    margin: 0;
+    /*
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    */
+}
+h1{
+    /*Ne treba mj. jed. nakon nule */
+    margin-top: 0;
+    /* Nepotrebno je
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px; 
+    */
+}

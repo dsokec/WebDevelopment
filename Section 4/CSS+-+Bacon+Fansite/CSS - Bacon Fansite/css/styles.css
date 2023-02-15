@@ -18,6 +18,8 @@ p{
 /*
     ovo je sudo class jer ima : (dvotočku)
     https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
+
+    Sva ostala pomoć se može pronaći na Discord serveru
 */
 img:hover{
     background-color: gold;

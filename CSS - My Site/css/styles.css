@@ -1,6 +1,6 @@
 /* background color for first div: 'I'm Dino. A programmer' */
 /* Color pallete https://colorhunt.co/palette/fefbe9e1eeddf0a04b183a1d */
-div{
+.topContainer{
     background-color: #FEFBE9;
 }
 
@@ -16,7 +16,7 @@ body{
     margin-right: 0px;
     */
 }
-h1{
+#pozdravnaPoruka{
     /*Ne treba mj. jed. nakon nule */
     margin-top: 0;
     /* Nepotrebno je
@@ -24,4 +24,18 @@ h1{
     margin-right: 0px;
     margin-bottom: 0px; 
     */
+}
+
+.firstBox{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: solid 10px;
+}
+
+#secondBox{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: solid 10px;
 }
